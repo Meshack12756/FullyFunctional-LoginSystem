@@ -28,7 +28,7 @@ session_start();
 
                 else {
                     echo "<li><a href='signup.php'>Sign Up</a></li>";
-                    echo "<li><a href='signup.php'>Log in</a></li>";
+                    echo "<li><a href='login.php'>Log in</a></li>";
 
                 }
 
