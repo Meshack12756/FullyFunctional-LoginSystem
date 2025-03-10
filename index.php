@@ -13,7 +13,7 @@ include_once 'header.php';
             ?>
     
 
-            <h1>McQuin School</h1>
+            <h1>McQuin Tech School</h1>
             <p>Welcome to McQuin School, the one-time online school of all things Technology!! Explore the rich diversity of McQuin School as you dive
                 into the world of Tech!!
             </p>
