@@ -14,13 +14,13 @@ include_once 'header.php';
     
 
             <h1>McQuin Tech School</h1>
-            <p>Welcome to McQuin School, the one-time online school of all things Technology!! Explore the rich diversity of McQuin School as you dive
-                into the world of Tech!!
+            <p>Welcome to McQuin School, the one-time online school of all things Technology! Explore the rich diversity of McQuin School as you dive
+                into the world of Tech!
             </p>
         </section>
 
         <section class="index-categories">
-            <h2>Our Basic Categories</h2>
+            <h2>Our Recognized Categories</h2>
             <div class="index-categories-list">
                 <div>
                     <h3>Learning Centre</h3>
